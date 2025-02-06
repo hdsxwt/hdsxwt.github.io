@@ -1,8 +1,13 @@
-#picture1 {
-    display: block;
-    margin: 20px auto;
-}
-
 .title {
     margin-left: 10%;
+}
+
+.picture {
+    display: block;
+    text-align: center;
+}
+
+.picture a {
+    display: inline-block;
+    margin: 5px;
 }
